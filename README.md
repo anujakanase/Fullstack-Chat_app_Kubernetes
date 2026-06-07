@@ -168,7 +168,18 @@ This project helped me gain practical experience in:
 * Application deployment on AWS
 
 ---
+
+<img width="1351" height="645" alt="9" src="https://github.com/user-attachments/assets/d005dcc7-bda9-4cee-be5b-24b266df6cf7" />
+
+---
+
 <img width="1346" height="594" alt="12" src="https://github.com/user-attachments/assets/a6e46246-5a75-48f3-8c4a-e52bb74ce1d2" />
+
+---
+
+<img width="1336" height="584" alt="11" src="https://github.com/user-attachments/assets/a134b0ce-cfe9-47b5-8407-901b385eba61" />
+
+---
 
 
 
