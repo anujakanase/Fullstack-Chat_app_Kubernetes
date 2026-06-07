@@ -167,9 +167,10 @@ This project helped me gain practical experience in:
 * DevOps workflows
 * Application deployment on AWS
 
+---
+<img width="1346" height="594" alt="12" src="https://github.com/user-attachments/assets/a6e46246-5a75-48f3-8c4a-e52bb74ce1d2" />
 
 
 
 
-LinkedIn:
-(Add your LinkedIn profile URL here)
+
